@@ -208,9 +208,7 @@ npm install
 
 [^5]: https://nodejs.org/
 
-# please generate a readme for launching a Java-based Spring Boot project
 
-```markdown
 # Employee Management Backend
 
 This is a Java-based Spring Boot backend for the Employee Management application.
@@ -231,8 +229,8 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 ```
 
-git clone https://github.com/your-username/employeeemanagmentbackend.git
-cd employeeemanagmentbackend
+git clone https://github.com/your-username/repository.git
+cd repository
 
 ```
 
@@ -297,7 +295,7 @@ java -jar target/your-app-name.jar
 ---
 ```
 
-This README provides clear, step-by-step instructions for launching and working with your Java Spring Boot backend project[^6][^7][^9].
+This README provides clear, step-by-step instructions for launching and working with your Java Spring Boot backend project.
 
 <div style="text-align: center">⁂</div>
 
