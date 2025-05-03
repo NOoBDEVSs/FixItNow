@@ -130,7 +130,7 @@ A React-based frontend application for managing Jobs.
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (LTS recommended)[^4][^5]
+- [Node.js](https://nodejs.org/) (LTS recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
 
 
@@ -252,7 +252,7 @@ You can run the Spring Boot application in two main ways:
 mvn spring-boot:run
 
 ```
-This will start the application, typically available at `http://localhost:8080` by default[^6][^7][^9].
+This will start the application, typically available at `http://localhost:8080` by default.
 
 #### Using the Packaged JAR
 
@@ -289,11 +289,10 @@ java -jar target/your-app-name.jar
 
 ## 📝 Notes
 
-- You can import this Maven project directly into most Java IDEs (e.g., IntelliJ IDEA, Eclipse)[^6][^10].
+- You can import this Maven project directly into most Java IDEs (e.g., IntelliJ IDEA, Eclipse).
 - By default, the backend runs on port 8080. You can change this in `application.properties` if needed.
 
 ---
-```
 
 This README provides clear, step-by-step instructions for launching and working with your Java Spring Boot backend project.
 
