@@ -196,20 +196,8 @@ rm -rf node_modules
 npm install
 ```
 
-<div style="text-align: center">⁂</div>
 
-[^1]: image.jpg
-
-[^2]: image.jpg
-
-[^3]: image.jpg
-
-[^4]: nodejs.org
-
-[^5]: https://nodejs.org/
-
-
-# Employee Management Backend
+# FixItNow Backend - Spring Boot
 
 This is a Java-based Spring Boot backend for the Employee Management application.
 
@@ -295,21 +283,3 @@ java -jar target/your-app-name.jar
 ---
 
 This README provides clear, step-by-step instructions for launching and working with your Java Spring Boot backend project.
-
-<div style="text-align: center">⁂</div>
-
-[^1]: image.jpg
-
-[^2]: image.jpg
-
-[^3]: image.jpg
-
-[^4]: image.jpg
-
-[^5]: https://spring.io/guides/gs/spring-boot
-
-[^6]: https://docs.spring.io/spring-boot/reference/using/running-your-application.html
-
-[^7]: https://docs.spring.io/spring-boot/tutorial/first-application/index.html
-
-[^8]: https://spring.io/quickstart
