@@ -116,3 +116,95 @@ This architecture demonstrates a fault-tolerant, scalable, and secure web applic
    ```
 
 > ⚠️ Make sure you have the correct AWS region and credentials before applying.
+
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+# FixItNow Frontend
+
+A React-based frontend application for managing Jobs.
+
+---
+
+## 🚀 Running the React Project
+
+### 📦 Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (LTS recommended)[^4][^5]
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) package manager
+
+
+### ⚙️ Installation
+
+1. **Clone the Repository**
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+2. **Install Dependencies**
+Using npm:
+
+```
+npm install
+```
+
+Or with yarn:
+
+```
+yarn
+```
+
+
+### 🧪 Running the App Locally
+
+```
+npm start
+```
+
+Or:
+
+```
+yarn start
+```
+
+This will start the development server and open the app in your default browser at `http://localhost:3000`.
+
+### 🏗️ Building for Production
+
+To create an optimized production build:
+
+```
+npm run build
+```
+
+Or:
+
+```
+yarn build
+```
+
+The build artifacts will be stored in the `build/` directory.
+
+### 🧹 Optional: Clean Install
+
+To remove `node_modules` and reinstall:
+
+```
+rm -rf node_modules
+npm install
+```
+
+<div style="text-align: center">⁂</div>
+
+[^1]: image.jpg
+
+[^2]: image.jpg
+
+[^3]: image.jpg
+
+[^4]: nodejs.org
+
+[^5]: https://nodejs.org/
